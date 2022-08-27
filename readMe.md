@@ -7,3 +7,8 @@
 5. To delete virtual environment run **deleteVenv.bat**
 
 Please read [this article](https://manaj.hashnode.dev/automate-python-3-virtual-environment-in-windows-os) to know more about automation of virtual environment in python3
+
+### Video Window
+1. Go to program folder
+2. run `python main.py`
+3. It will open main window where left size live video streaming can be visible whereas right hand size widget we can switch cameras.
